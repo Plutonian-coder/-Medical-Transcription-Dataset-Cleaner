@@ -51,29 +51,31 @@ df.head()
 
 
 
-📊 Example Records
-Description	Medical Specialty	Keywords (Preview)
-2-D M-Mode. Doppler.	Cardiovascular / Pulmonary	doppler, echocardiogram, heart
-A 23-year-old white female...	Allergy / Immunology	allergic rhinitis, immunology
-Consult for gastric bypass	Bariatrics	gastric bypass, weight loss
+## 📊 Example Records
 
-🤖 Potential Applications
-Medical NLP (Named Entity Recognition, Classification)
+| Description                     | Medical Specialty           | Keywords (Preview)               |
+|--------------------------------|-----------------------------|----------------------------------|
+| 2-D M-Mode. Doppler.           | Cardiovascular / Pulmonary  | doppler, echocardiogram, heart  |
+| A 23-year-old white female...  | Allergy / Immunology        | allergic rhinitis, immunology   |
+| Consult for gastric bypass     | Bariatrics                  | gastric bypass, weight loss     |
 
-Text classification (by specialty or diagnosis)
+---
 
-Building medical question-answering systems
+## 🤖 Potential Applications
 
-Summarization of clinical notes
+- Medical NLP (Named Entity Recognition, Classification)  
+- Text classification (by specialty or diagnosis)  
+- Building medical question-answering systems  
+- Summarization of clinical notes  
 
-🛠 Requirements
+---
+
+## 🛠 Requirements
+
 Install dependencies:
 
-bash
-Copy code
+```bash
 pip install pandas matplotlib seaborn
-📌 License
-This dataset and project are intended for educational purposes only. Please refer to mtsamples.com for original data ownership and usage terms.
-
-👤 Author
+```
+## 👤 Author
 Cleaned and maintained by Yekini Khalid Kolawole
